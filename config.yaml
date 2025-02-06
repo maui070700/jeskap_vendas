@@ -1,0 +1,31 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    fabiana:
+      failed_login_attempts: 0
+      logged_in: false
+      name: Fabiana
+      password: $2b$12$tx20xQxKIKgK1AZZukWZWOK0sm61UnHHhF.aMy1eUR4PoF5gGYFl.
+    jessica:
+      failed_login_attempts: 0
+      logged_in: false
+      name: Jessica
+      password: $2b$12$v7z.d7FxBODnQ0EsIYtYRu3PFVrGByBck4pAXwKVuSfxcJirRBtOy
+    raquel:
+      failed_login_attempts: 0
+      logged_in: false
+      name: Raquel
+      password: $2b$12$AXCstCeb/3hDdQhgB.xAW.82snM5.V0H4TxILxK3TqYI38iLS1n/O
+    thais:
+      failed_login_attempts: 0
+      logged_in: false
+      name: Thais
+      password: $2b$12$PLX9ejdqEhTRxostXPI/0.BdQZBZfqilinBMLjShILvR9gBzA3ss2
+    zedequias:
+      failed_login_attempts: 0
+      logged_in: false
+      name: Zedequias
+      password: $2b$12$65.9cF/bdkEi9DggzQY7WeyiVBshUbp7eEfhHiN45Oc7yT8SbZVEy
